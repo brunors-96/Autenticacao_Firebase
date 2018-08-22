@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018686967578",
+    "firebase_url": "https://projetofirebasebruno.firebaseio.com",
+    "project_id": "projetofirebasebruno",
+    "storage_bucket": "projetofirebasebruno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018686967578:android:3ffa93609a364b67",
+        "android_client_info": {
+          "package_name": "com.example.bruno.projetofirebase_bruno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018686967578-eell8dc55vj7flp4v3uuoike9hu8ht1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.projetofirebase_bruno",
+            "certificate_hash": "6c2c49e00e0ad72c1bd1ef53358416951865d7a8"
+          }
+        },
+        {
+          "client_id": "1018686967578-4u70ou5n7k905uij8b8ja1opr519iice.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_R3csOeuNz1avuNznoNPfFQ4n9c2TAb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018686967578-4u70ou5n7k905uij8b8ja1opr519iice.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
