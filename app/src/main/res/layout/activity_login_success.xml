@@ -16,4 +16,40 @@
             android:id="@+id/texteEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/editNome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nome"/>
+
+        <EditText
+            android:id="@+id/editBDay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="date"
+            android:hint="Data de Nascimento"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Nível de ensino:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Spinner
+            android:id="@+id/spinnerGraduacao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/graduacao"
+            />
+
+        <Button
+            android:id="@+id/buttonUpdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Atualizar"
+            android:onClick="Atualizar"/>
 </LinearLayout>

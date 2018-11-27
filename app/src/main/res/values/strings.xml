@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ProjetoFireBase_Bruno</string>
+    <string-array name="graduacao">
+        <item>Basico</item>
+        <item>Médio</item>
+        <item>Graducação</item>
+        <item>Pós</item>
+    </string-array>
 </resources>
